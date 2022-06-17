@@ -1,0 +1,14 @@
+{
+  "Title": "PlayHome Lobby",
+  "Type": "map",
+  "Org": "playchill",
+  "Ident": "ph_lobby",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {}
+}
